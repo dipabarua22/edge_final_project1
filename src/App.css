@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #8758ff;
+  background: #b0a0e7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,19 +27,19 @@ h1 {
 .TodoWrapper {
   background: #1A1A40;
   margin-top: 5rem;
-  padding: 2rem;
+  padding: 5rem;
   border-radius: 5px;
 }
 
 .TodoForm {
   width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
 }
 
 .todo-input {
   outline: none;
   background: none;
-  border: 1px solid #8758ff;
+  border: 1px solid #b29aee;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
