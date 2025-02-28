@@ -1,3 +1,17 @@
+project name:To-Do List App (ReactJs)
+description:
+this is simple To Do list Application built with reactJs.which allows users to manage their task efficiently.
+funtionality:
+   Add new tasks
+   Edit existing tasks
+   Delete tasks
+   Mark tasks as completed
+   Responsive UI
+here is website screenshot-
+![todo-list-appp](https://github.com/user-attachments/assets/2174238d-a2bf-4868-9330-214b2037fa80)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
